@@ -21,9 +21,54 @@
 शासन निर्णय क्रमांकः प्रशामा-०३१८/प्र.क्र. ११५/आ-७
 एकवीस कोटी चौऱ्याण्णव लक्ष नव्याण्णव हजार फक्त) इतका निधी खर्च करण्यास प्रशासकीय
 मान्यता देण्यात येत आहे. सदर औषधे, उपकरणे व साहित्य यांचा तपशिल खालीलप्रमाणे आहे :
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | FMR Code | Budget Head | Proposed Budget In Lakh) | Approved Budget |
+| 1. | A.1.6.6.1 | Antenatal Screening of all pregnant women coming to the facilities in their first trimester for Sickle Cell trait, Thalassemia, Haemoglobin variants esp. Haemoglobin E and Anemia- as per (Solubility & Nestrof Kits) | 74.98 | 29.99 |
+| 2. | B4.1.5.4.1 | Infrastructure Development for Blood Storage Units & Day Care Units at all 34 DH/WH/Specialist Hospitals for Hemoglobinopathy | 661.02 | 375.00 |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
+| Sr. No. | FMR Code | Budget Head | Proposed Budget (Rs. In Lakh) | Approved Budget |
+|  |  |  | 2 | 2 |
+|  |  |  | 18.56 | 18.56 |
+|  |  | Equipment Budget required for diagnosis of Hemophilia |  |  |
+| 1. | B14.3 | Semi-Automated Coagulometer | 8 | 8 |
+| २. | B14.3 | Cold Centrifuge machine | 4 | 4 |
+| 3. | B14.3 | Reagents | 16 | 16 |
+|  |  |  | 28 | 28 |
+| २. | B१४.३ | HPLC Reagents | 50 | 50 |
+| 4. | B14.3 | NESTROFF Screening kits for Thalassemia | 147 | 147 |
+|  |  |  | 197 | 197 |
+| Sr. No. | FMR Code | Budget Head | Proposed Budget (Rs. In Lakh) | Approved Budget |
+| 1. |  | Blood Storage Unit-Equipment and Consumables |  |  |
+| 2. | B16.1.1.1 | Platelet agitator with incubator | 1035 | 515 |
+| اس 3. | B16.1.1.1 | Minus 40 Refrigerator | 1035 | 515 |
+| 4. | B16.1.1.1 | Tube sealer table top | 310.5 | 123 |
+| 5. | B16.1.1.1 | Blood Storage Cabinet | 30 | 30 |
+| 6. | B16.1.1.1 | Blood Bank Solar Refrigerator | 144.15 | 62 |
+| اب 7. | B16.1.1.1 | ICE Line Blood Bank Refrigerator | 124 | 62 |
+|  |  |  | 2678.65 | 1307 |
+----------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+| Sr. No. | FMR Code | Budget Head | Proposed Budget (Rs. In Lakh) | Approved Budget |
+| 1. | B14.2 | Laboratory Consumables & Medicine to PHCS | 51.4 | 51.4 |
+| 2. | B14.2 | Laboratory Consumables & Medicine to Electrophoresis Testing center | 9.2 | 9.2 |
+| 3. | B14.2 | Laboratory Consumables & Medicine to Other RH/SDH | 9.5 | 9.5 |
+--------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-०३१८/प्र.क्र. ११५/आ-७
+------------------------------------------------------------------------------
+| Sr. No. | FMR Code | Budget Head | Proposed Budget (Rs.  |  In Lakh) | Approved Budget |
+|  |  |  | 70.1 | 70.1 |
+|  |  | State Level Budget |  |  |
+| १. | B14.2 | Medicine | 30 | 0 |
+| 2. | B14.2 | Pneumococcal Vaccine | 25 | 25 |
+| 3. | B14.2 | Solubility & Electrophoresis test kits | 210 | 175 |
+| 4. | B14.2 | Lab consumables | 42 | 35 |
+| 5. | B14.2 | IEC | 20 | 20 |
+| 6. | B14.2 | HPLC Test Kit for neonatal testing | 62 | 31 |
+|  |  | Sub-total budget required for State Level | 389 | 286 |
+------------------------------------------------------------------------------
 २. उपरोक्त प्रशासकीय मान्यता खालील अटी व शर्तींच्या अधीन राहून देण्यात येत आहे : १) सदर साहित्य सामुग्रीची आवश्यकता / मागणी याची शहानिशा / खातरजमा करण्यात यावी. त्यानंतरच सदर बाबींच्या खरेदीसाठी निविदा प्रक्रिया राबविण्यात यावी.
 २) सदरहू साहित्य सामुग्रीचे विनिर्देश गरजेनुसार व अद्ययावत असल्याची खातरजमा करण्यात यावी. खरेदी करावयाच्या बाबींचे तांत्रिक विनिर्देश (Technical specification)
 संबंधित तज्ञांनी (तांत्रिक समिती / अधिकारी) यांनी मान्य केलेल्या विनिर्देशानुसार असावेत.

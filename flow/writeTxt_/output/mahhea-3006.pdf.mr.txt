@@ -37,6 +37,39 @@
 केलेल्या अटींच्या अधीन राहून प्रशासकीय मान्यता देण्यात येत आहे. त्याचा तपशील पुढीलप्रमाणे
 आहे. :
 दर निश्चिती (Rate Contract) करावयाच्या क्षयरोग विरोधी औषधांची यादी व आवश्यकता
+----------------------------------------------------------------------------------------------------------------------------
+| Sr. No | Name of anti TB Drugs | Unit of measurement | Required Quantity (25% of Yearly requirement) | Approximate Price | Total Rs. |
+| 1 | Moxifloxacin 400mg | Tablet | 1240583 | 15.67 | 19439935.61 |
+| 2 | Ethlonamide 125mg | Tablet | 11248 | 5.04 | 56689.92 |
+| 3 | Ethlonamide 250mg | Tablet | 367985 | 5.82 | 2141672.70 |
+| 4 | Clofazimin 50mg | Capsule | 72421 | 1.09 | 78938.89 |
+| 5 | Clofazimin 100mg | Capsule | 1010071 | 1.69 | 1707019.99 |
+| 6 | Pyrazinamide 500mg | Tablet | 511767 | 1.29 | 660179.43 |
+| 7 | Pyrazinamide 750mg | Tablet | 376071 | 1.56 | 586670.76 |
+| 8 | Ethambutol 400mg | Tablet | 124625 | 1.71 | 213108.75 |
+| 9 | Ethambutol 800mg Tab | Tablet | 336051 | 3.03 | 1018234.53 |
+| 10 | Isonlazid 300mg Tab | Tablet | 6026354 | 0.94 | 5664772.76 |
+| 11 | Bedaqulline 100mg | Jar (jar of 188 Tablets) | 1392 | 26000 | 361920000 |
+| 12 | Delamanid 150mg | Tablet | 34860 | 172.09 | 5999057.40 |
+| 13 | Levofloxacin 250mg | Tablet | 395622 | 1.46 | 577608.12 |
+| 14 | Levofloxacin 500mg | Tablet | 745934 | 2.48 | 1849916.32 |
+| 15 | Cycloserine 250mg | Capsule | 1864545 | 17.15 | 31976946.75 |
+| 16 | Linezolide 600mg | Tablet | 1418382 | 34.68 | 49189487.76 |
+| 17 | Pyridoxin 100mg Tab | Tablet | 504599 | 1.78 | 898186.22 |
+| 18 | Sodium-PAS-04 GM. Sachet (9.2gm with 60BA) | Sachet | 198000 | 50.98 | 10094040 |
+| 19 | Amikacin 500mg | Ampoule | 24381 | 44.85 | 1093487.85 |
+| 20 | Rifampicin 150mg | Capsule | 52290 | 2.47 | 129156.30 |
+| 21 | Rifampicin 450mg | Capsule | 97259 | 4.91 | 477541.69 |
+| 22 | 4 FDCs (Adult) | Strip of 28 Tablets | 232275 | 130.38 | 30284014.50 |
+| 23 | 3 FDCs (Adult) | Strip of 28 Tablets | 464553 | 105.10 | 48824520.30 |
+| 24 | 3 FDCs (Pediatric) | Strip of 28 Tablets | 33360 | 91.72 | 3059779.20 |
+| 25 | 2 FDCs (Pediatric) | Strip of 28 Tablets | 66726 | 76.38 | 5096531.88 |
+| 26 | Ethambutol 100mg | Tablet | 2802387 | 0.75 | 2101790.25 |
+| 27 | Isoniazid 100mg | Tablet | 1007100 | 0.53 | 533763 |
+| 28 | Pyridoxin 25mg | Tablet | 675000 | 0.75 | 506250 |
+| 29 | Pyridoxin 50mg | Tablet | 5535000 | 1.05 | 5811750 |
+|  | Total | 266263050.90 |
+----------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः प्रशामा-०९१९/प्र.क्र.४९०/आरोग्य-७

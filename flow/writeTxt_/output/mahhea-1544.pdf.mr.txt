@@ -24,7 +24,32 @@
 केलेला आहे. त्यानुषंगाने सदर प्रस्तावास प्रशासकीय मान्यता देण्यात येत आहे. त्याबाबत अनुदान
 व खरेदी करावयाच्या बाबींचा तपशिल पुढीलप्रमाणे आहे. :
 अ- अनुदानाचा तपशिल
+-----------------------------------------------------------------------------------------------------------------------
+| Sr. no | FMR Code PIP 2019-20 | Name of Head | Approved Budget in PIP in 2019-20 (In Lakhs) | Procurement Proposal (In Lakhs) |
+| 1 | FMR Code 1.1.6.6 | Procurement of Consumables & reagents for Dialysis & Burn Wards | 851.00 | 680.58 |
+-----------------------------------------------------------------------------------------------------------------------
 ब- प्रस्तावित खरेदीचा तपशिल Dialysis Consumables
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Medicines & consumables | Required for Each Dialysis | Rate per item (In Rs.) | Total quantity as per District requirement | Total Amt. (In Rs.) Approx. |
+| Consumables |
+| 1 | AV Fistula Needle No.16 | 1 | 14.3 | 80000 | 1144000 |
+| 2 | AV Fistula Needle No. 17 | 1 | 19.55 | 40000 | 782000 |
+| 3 | Haemodialysis blood tubing |  | 42.8 | 70000 | 2996000 |
+| 4 | Haemodilyser Sixe F5 | 1 | 480 | 15000 | 7200000 |
+| 5 | Haemodilyser Sixe F6 | 1 | 525 | 50000 | 26250000 |
+| 6 | Haemodilyser Size F8 | 1 | 598 | 15000 | 8970000 |
+| 7 | Double Lumen Catheter 12 f | Each new Patient | 1250 | 2500 | 3125000 |
+| 8 | Triple Lumen Catheter 12 ft | Each new Patient | 1500 | 2500 | 3750000 |
+|  | Center line daual lumen catheter 7 ft | Each new Patient | 1200 | 500 | 600000 |
+| 10 | Center line Triple lumen Catheter 7 ft | Each new Patient | 1200 | 900 | 1080000 |
+| 11 | Diasafe filter | 1 | 2000 | 1500 | 3000000 |
+| 12 | Transduser protector | 1 | 10 | 40000 | 400000 |
+| 13 | Haemodialysis concentrate solution A (10 Lit can) |  | 351.68 | 3000 | 1055040 |
+| 14 | PD Connection Set |  | 425 | 4000 | 1700000 |
+| 15 | Potassium free Haemodialysis concentrate solution A |  | 100 | 4000 | 400000 |
+| 16 | Citisterile solution 5 lit | For 100 Dialysis | 4672 | 1200 | 5606400 |
+|  | Total | 68058440 |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-०६१९/प्र.क्र.४०५/आरोग्य -७

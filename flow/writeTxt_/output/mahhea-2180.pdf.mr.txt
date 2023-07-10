@@ -27,13 +27,51 @@
 निविदा प्रक्रियेस खालील विवरणपत्रातील प्रस्तावास पुढील अटींच्या अधीन राहून प्रशासकीय मान्यता देण्याबाबत प्रस्तावित करण्यात येत आहे.
 परिशिष्ट-अ (अनुदानाचा तपशिल)
 Amt.(In Lakhs)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Year 2019 20 FMR Code | Budget Approved | Procurement Status | Remaining Budget |
+| 6.2.21.1 NHM Free Drugs Services | Rs.20522.91 Lakhs with including Rs.700.00 Lakhs from FMR 6.2.19.6 Rs.3950.00 Lakhs from FMR 6.2.22.1 Rs.693.91 Lakhs from FMR 6.2.2.1 | Govt. A.A. Received Rs.18113.52 Lakhs Dt.16.09.2019 | Rs.961.12 Lakhs |
+| Govt. A. A. Received Rs.693.84 Lakhs Dt.15.06.2019 |
+| Rs.354.43 Lakhs Proposal from Jt. Director (PC) Mumbai Dt.16.09.2019. Under Process for Govt. AA |
+| Amt. Rs.400.00 Lakhs secured for purchase for Haemophilia Drugs on HBPCL Tenders. |
+| Total Amt.Rs.19561.79 Lakhs |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-१२२०/प्र.क्र.०५/आरोग्य-७
 परिशिष्ट-ब ( खरेदी बाबींचा तपशिल )
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | EDL/ SDL/ SCL | Drug Name | Specification | Approx Rate Rs. | Qty | Amount Rs. |
+|  | SDL | Inj. Anti Diptheria Serum (ADS) | Inj. Anti Diptheria Serum Enzyme Refined Equine globulin solution 10,000 IU, 1 Vial of 10ml | 975.26 | 550 | 536393 |
+| 2 | SDL | Inj. Anti Rabies Serum (ARS) | Inj. Anti Rabies Serum Enzyme Refined Equine Immunoglobulins 5ml Potency not less than 300 IU/ MI, 1 Vial of 5ml | 278.23 | 22000 | 6121060 |
+| 3 | SDL | Inj. Anti Tetanus Serum (ATS) | Inj. Anti Tetanus Serum Enzyme Refined Equine globulin solution 10000 IU/3.4ml Vial | 284.39 | 1600 | 455024 |
+| 4 | EDL | Inj. Ceftriaxone 1gm | Inj. Ceftriaxone 1000 mg Vial | 13.22 | 480000 | 6345600 |
+| 5 | EDL | Acyclovir Tab 400 mg | Tab. Acyclovir 400 mg, Strip of 10 Tablets | 2.37 | 800000 | 1896000 |
+| 6 | EDL | Amoxycillin + Clavulanic Acid Inj 250 mg + 50 mg Vial | Inj. Amoxycillin + Clavunic acid 300mg Inj. Amoxycillin Sodium 250 mg + Clavuanic acid as Potasium salt 50 mg i.e. 300 mg (0.3 gm) in Vial | 9.58 | 600000 | 5748000 |
+| 7 | EDL | Cap. Mefenamic Acid 250mg | Cap. Mefenamic Acid 250mg, Strip of 10 Tablets | 1.50 | 500000 | 750000 |
+| 8 | EDL | Cefoperazone and Sulbactum for Inj 1 gm, 1 gm Vial | Inj. Cefoperazone+Salbactum1gm Inj. Cefoperazone sodium 500 mg + Sulbactum Sodium 500 mg USP i.e. 1gm | 16.31 | 400000 | 6524000 |
+| 9 | EDL | Diclofenac Pottassium Suppository 100 mg Tab | Diclofenac Pottassium Suppository 100 mg Tab | 2.48 | 680000 | 1686400 |
+| 10 | EDL | Fusidic Acid Cream 10 gm | Fusidic acid 2% w/w - 10 gm (Fusidic acid 20mg per gm) | 6.20 | 200000 | 1240000 |
+| 11 | EDL | Hydrogen Peroxide 11 % + Silver Nitrate 1% | Hydrogen Peroxide 11% with Silver Nitrate 0.01 %, 1000ml Bottle | 145.00 | 20000 | 2900000 |
+| 12 | EDL | Sy. Amoxycillin Trihydrate 250 mg /5 ml- Bottle of 60 ml | Sy. Amoxycillin Trihydrate 250 mg / 5 ml- Bottle of 60 ml | 9.85 | 200000 | 1970000 |
+| 13 | EDL | Tab. Diphenylhydantoin 100mg | Tab. Diphenylhydantoin 100mg, Strip of 10 Tablets | 1.44 | 1700000 | 2448000 |
+| 14 | EDL | Thiocolchicosid Tab 4 mg | Thiocolchicosid Tab 4 mg, Strip of 10 Tablets | 1.05 | 500000 | 525000 |
+| 15 | EDL | Labetalol Tab 100mg | Tab. Labetlol HCL 100 mg, Strip of 10 Tablets | 1.10 | 500000 | 550000 |
+| 16 | EDL | Sodium bicarbonate Inj 7.5 % 10 ml | Sodium bicarbonate Inj 7.5 % 10 ml | 6.66 | 160000 | 1065600 |
+| 17 | SDL | Feracrylum 1% Gel 15gm Tube | Feracrylum 1% Gel 15gm Tube | 38.90 | 250000 | 9725000 |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः प्रशामा-१२२०/प्र.क्र.०५/आरोग्य-७
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | EDL/ SDL/ SCL | Drug Name | Specification | Approx Rate Rs. | Qty | Amount Rs. |
+| 18 | SDL | Omeprazole Powder Sachet 20gm | Omeprazole Powder for Oral Suspension (Sodium Bicarbonate as Buffer) 5.9gm Sachet | 8.50 | 680000 | 5780000 |
+| 19 | SDL | Capsule Amino Acids | Capsule Amino Acids Each Contains : Isoleucine 67mg, Leucine 101mg, Phenylalanine 68mg, Valine 86mg, Methionine 59mg, L-lysine 105mg, L-threonine 53mg, L-tryptophan 23mg, L histidine 38mg, L-tyrosine 30mg, Nitrogen 36mg | 5.49 | 680000 | 3733200 |
+| 20 | SCL | C.T, Scan Films 14 X 17(Depending on the Camera) | C.T,Scan Films. (Wet & Dry) C.T. Scan Films. (Wet & Dry) (1) CT & MIR Films for Dry Camera Should have compatibility of Films to available camera (14" x 17") Should be quoted separately for Each camera. (2) CT & MIR Films for Wet Camera Should have compatibility of Films to available camera (14" x 17") Should be quoted separately for Each camera | 103.06 | 10000 | 1030600 |
+| 21 | SCL | ECG Roll | Wax coated electro cardi graphic paper size 50 mm x 30mm or 60mmx20mm (superior quality) | 51.48 | 35000 | 1801800 |
+| 22 | SCL | ECG/EEG Gel | ECG Jelly Tube Electrode contact paste suitable for ECG, EEG, ECT Jar of 200 gm | 58.60 | 25000 | 1465000 |
+| 23 | SCL | Urine Collection Bag | Urine Collection Bag - Disposable sterile with accurate calibration Non Toxic, Tube length 42"Manufactured from clinical grade PVC sheet. Super Smooth kink resistant tube, made from medical grade PVC. with connector. Non return valve and drainage outlet. Provided with hanging & carrying system. Capacity: 2000 ml. Approx. Sterile / Disposable / Individual packed. | 9.85 | 250000 | 2462500 |
+| Total | 66759177 |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 अटी:
 १) सदर आवश्यक औषधे व औषधी साहित्य या बाबींची आवश्यकता / मागणी याची शहानिशा /
 खातरजमा करण्यात यावी. त्यानंतरच सदर बाबींच्या खरेदीसाठी निविदा प्रक्रिया राबविण्यात

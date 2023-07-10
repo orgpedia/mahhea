@@ -11,14 +11,46 @@
 बांधकाम विभाग, मुंबई व जिल्हा शल्य चिकित्सक, सिंधुदूर्ग यांनी साक्षांकित केले आहे. सदर
 अंदाजपत्रक सन २०१८-१९ च्या दरसूचिवर आधारित असून या अंदाजपत्रकास प्रशासकीय मान्यता देण्याची बाब शासनाच्या विचाराधीन होती. यासंदर्भात पुढील प्रमाणे निर्णय घेण्यात येत आहे.
 शासन निर्णय : जिल्हा महिला व बाल रुग्णालय सिंधुदूर्ग कुडाळ या १०० खाटांच्या रुग्णालयाच्या इमारतीच्या विद्युतीकरण कामाच्या एकूण रु.५५०.९२ लक्ष (पाचशे पन्नास लक्ष, ब्यान्नव हजार फक्त) च्या अंदाजपत्रकास खालील प्रमाणे प्रशासकीय मान्यता देण्यात येत आहे :
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Name of Work : OW/KUESD/6127/OF 2018-19, Providing Electrical Installation with Computer LAN, Telephone wiring, Water Pump, Fire Alarm with Fire Fighting Arrangement, Solar PV system, solar hot water system, DG set & Lifts etc. for proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg (Phase 1 ) |
+| Sr. No. | Quantity | Description | Rate (Rs.) | Per | Amount (Rs.) |
+| 1 | 5652.69  |  | Sq.Mtr.  |  | Providing internal | 901.00 | Sq.Mtr. | 50,93,071.02 |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Page 2
 शासन निर्णय क्रमांकः प्रशामा-२०१९/प्र.क्र.१५४/आरोग्य-४
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  |  |  | wiring & mains with modular type switches & accessories for proposed 100 Beded Woman Hospital at Kudal, Tal Kudal, District Sindhudurg. |  |  |  |
+| 2 | 5652.69 | Sq.Mtr. | Providing cabling and switchgears for proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg. | 458.00 | Sq.Mtr. | 25,88,930.66 |
+| 3 | 282.634 | Sq.Mtr. | Providing Telephone / TV / computer LAN wiring for proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg (for office area only) | 310.00 | Sq.Mtr. | 87,616.65 |
+| 4 | 5652.69 | Sq.Mtr. | Providing submersible water pump set for proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg. | 89.00 | Sq.Mtr. | 5,03,089.15 |
+| 5 | 200 | KVA | Providing DG set for proposed 100 Beded Women Hospital at Kudal, Tal. Kudal, District Sindhudurg. | 16,252.00 | KVA | 32,50,400.00 |
+| 6 | 5652.69 | Sq.Mtr. | Providing Fire fighting & fire Alarm system for proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg. | 2098.00 | Sq.Mtr. | 118,59,337.41 |
+| 7 | 2 | Nos | Providing Passenger cum Stretcher lift at | 24,55,468.00 | Each | 49,10,936.00 |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-२०१९/प्र.क्र.१५४/ आरोग्य-४
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  |  |  | proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg. |  |  |  |
+| 8 | 1440 | Ltrs | Providing water cooler for proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg. | 813.00 | Per Ltr. | 11,70,720.00 |
+|  | 1 | Job | Providing Lighting Arrestor system for proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg. | 3,69,364.00 | Per Job | 3,69,364.00 |
+| 10 | 75 | Ton | Providing cerntralised air conditioning system for proposed 100 Beded Women Hospital (OT Setion) at Kudal, Tal Kudal, District Sindhudurg. | 1,47,746.00 | Per Ton | 110,80,950.00 |
+| 11 | 1 | Job | Providing Solar PV System 25 KWp capacity with switchgears and cables for proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg. | 18,10,282.00 | Job | 18,10,282.00 |
+| 12 | 3000 | Ltrs | Providing Solar hot water system capacity with switchgears and cables for proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg. (canteen, Labour, Bathroom) | 399.00 | Per Ltr. | 11,97,000.00 |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः प्रशामा-२०१९/प्र.क्र.१५४/ आरोग्य-४
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 13 | 302.13 | RMT | Providing street light arrangements for proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg. | 3546.00 | RMT | 10,71,352.98 |
+| 14 | 1 | Job | Providing electrical  |  Supply system alongwith transformer at proposed 100 Beded Women Hospital at Kudal, Tal Kudal, District Sindhudurg. | 25,00,000.00 | Job | 25,00,000.00 |
+| Total Rs. | 474,93,049.88 |
+| AddContigency @ 4 % | 18,99,722.00 |
+| Total Rs. | 493,92,771.87 |
+| Add GST 12% | 56,99,165.00 |
+| Total Rs. | 5,50,91,936.00 |
+| Say Rs. | 550.92 Lakhs |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 २. उपरोक्त अंदाजपत्रकाची प्रशासकीय मान्यता खालील अटी व शर्तीच्या अधिन राहून देण्यात येत आहे.
 अटी व शर्ती :
 १) ढोबळ स्वरुपात धरण्यात आलेल्या तरतूदीबाबत काम करतेवेळी विस्तृत अंदाजपत्रक करुनच काम हाती घ्यावे.

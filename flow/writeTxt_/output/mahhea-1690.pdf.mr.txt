@@ -23,6 +23,68 @@
 रकमेच्या प्रस्तावास पुढील विवरणपत्रातील खालील अटींच्या अधीन राहून प्रशासकीय मान्यता देण्यात
 येत आहे.:
 विवरणपत्र
+------------------------------------------------------------------
+|  |  |  |  |  |  | FMR |  |  |  |  |  | Required |  |  |
+|  | Name of |  |  | Approx. |  |  | Approved |  |
+|  | Name of |  | Sr. |  | Name of |  | Code |  | Proposed |  | Total |
+| Item's / | Rate Per | Budget |
+| Bureau | No. | Scheme |  | PIP |  | Qty. | Amt. |
+| Particular | Unit (Rs.) | (In Lakhs) |
+|  |  |  |  |  |  |  | (In Lakhs) |
+|  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | Tablets ; |  |
+|  | Purchase |  |
+| Software for |
+|  | 1 |  |  | 6.1.2.5.a |  | of Tablets |  | 3752 |  |  | 12000 |  |  | 450.24 |  |  | 312.00 |  |
+|  | Joint |  | H & WC and |
+|  |  | for CHO |  |  |  |  |
+| Director | ANM/MPW |
+|  |
+| (Technical) |  |
+|  |  |  |  | Purchase |  |  |  |  |  |
+| NHM, |  | Procurement |  |
+| of Tablet |
+| Mumbai | of Universal |
+|  | 2 |  |  | 6.1.2.6.a |  | for ANM |  | 4026 |  |  | 12000 |  |  | 483.12 |  |  | 660.00 |  |
+|  | Screening of |
+|  |  | under |  |  |  |  |
+| NCD's |
+| NCD |
+|  |
+|  | Addl. |  |  |  |  |  |  |  |  |  |
+|  | Purchase |  |
+| Mission |
+|  | HWC |  | of Tablets |
+| Director, |  | 3 |  |  | U.17.1 |  |  | 2000 |  |  | 12000 |  |  | 240.00 |  |  | 200.00 |  |
+| NUHM | for (HWC |
+| NHM, |  |  |  |  |  |  |
+|  | - UPHC) |
+| Mumbai |
+|  |
+|  |  |  |  |  | Purchase |  |  |  |  |  |
+|  | Joint |  | of |
+|  | Tablets ; |  |
+| Director | Desktop |
+| Software for |
+| (Technical) |  | 4 |  |  | 6.1.2.5.a |  | & |  | 2080 |  |  | 50000 |  |  | 1040.00 |  |  | 1040.00 |  |
+| H & WC and |
+| NHM, |  |  | Printers |  |  |  |  |
+| ANM/MPW |
+| Mumbai | for (HWC |
+|  |
+|  | - SC) |
+|  |  |  |  |  | Purchase |  |  |  |  |  |
+|  | Addl. |  | of |
+| Mission | Desktop |
+|  | HWC |  |
+| Director, |  | 5 |  |  | U.17.1 |  | & |  | 400 |  |  | 50000 |  |  | 200.00 |  |  | 200.00 |  |
+| NUHM |
+| NHM, |  |  | Printers |  |  |  |  |
+|  |
+| Mumbai | for (HWC |
+|  | UPHC) |
+------------------------------------------------------------------
 अटी :
 १) सदर संगणक व प्रिंटर, टॅबलेटची आवश्यकता / मागणी याची शहानिशा / खातरजमा करण्यात
 यावी. त्यानंतरच सदर बाबींच्या खरेदीसाठी निविदा प्रक्रिया राबविण्यात यावी.

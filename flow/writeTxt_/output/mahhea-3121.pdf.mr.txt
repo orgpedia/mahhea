@@ -22,9 +22,39 @@
 आहे. खरेदीसाठी प्रस्तावित असलेल्या २३ उपकरणे व संयंत्रे यांचा तपशील व प्राप्त अनुदानाचा
 तपशील पुढीलप्रमाणे आहे. :
 विवरणपत्र
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sub. Sr. No. | Name of Item's / Particular | Revised Proposed Qty. | Approx. Rate as per GOI Guidelines | Revised Approx. Rate Per Unit | Revised Approx. Amount |
+| 1 | ICU Bed | 110 | 100000 | 32520 | 3577200 |
+| 2 | Maternity Cot | 14 | 150000 | 150000 | 2100000 |
+| 3 | Infusion Pump | 111 | 35000 | 26488 | 2940168 |
+| 4 | Syringe Pump | 112 | 35000 | 27440 | 3073280 |
+| 5 | Foetal Doppler | 54 | 4000 | 4000 | 216000 |
+| 6 | USG Machine with colour Doppler and Echo facility | 12 | 1000000 | 2600000 | 31200000 |
+| 7 | CTG Machine | 26 | 150000 | 150000 | 3900000 |
+| 8 | Multipara Bedside Monitors (non invasive) | 80 | 100000 | 131000 | 10480000 |
+| 9 | Multipara Bedside Monitors (Invasive) | 28 | 200000 | 153000 | 4284000 |
+| 10 | Baby resuscitation kit/cart | 13 | 5000 | 5000 | 65000 |
+| 11 | Crash cart fully loaded with BCLS medications | 14 | 50000 | 50000 | 700000 |
+| 12 | Defibrillator with TCP and AED (Automated external defibrillator) | 13 | 200000 | 150080 | 1951040 |
+| 13 | Wall mount suction & Foot operated suction machine | 13 | 6000 | 3696 | 48048 |
+| 14 | Transport ventilator to shift the patient to ICU | 14 | 475000 | 460000 | 6440000 |
+| 15 | Non invasive ventilator | 14 | 900000 | 357210 | 5000940 |
+| 16 | High end ventilator | 16 | 1000000 | 1000000 | 16000000 |
+| 17 | Movable shadow less spot lights with adjustable arms | 28 | 180000 | 180000 | 5040000 |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-०६१९/प्र.क्र.४०६/आरोग्य -७
+--------------------------------------------------------------------------------------------------------------------
+| Sub. Sr. No. | Name of Item's / Particular | Revised Proposed Qty. | Approx. Rate per Guidelines | Approx. | Revised Approx. |
+| 18 | Refrigerator | 28 | 20000 | 20000 | 560000 |
+| 19 | Blood Warmers | 28 | 115000 | 275000 | 7700000 |
+| 20 | Intermittent compression device for DVT prophylaxis | 14 | 35000 | 35000 | 490000 |
+| 21 | Air Beds | 28 | 3000 | 3000 | 84000 |
+| 22 | ABG | 13 | 350000 | 300000 | 3900000 |
+| 23 | Negative Ionizer/Air Purifier | 14 | 15000 | 15000 | 210000 |
+|  | Total |  |  |  | 109959676 |
+--------------------------------------------------------------------------------------------------------------------
 वित्तीय तरतुद
 राष्ट्रीय आरोग्य अभियानांतर्गत Equipment for Obstetric HDU ICU च्या खरेदीसाठी
 FMR Code ६.१.१.१.c अंतर्गत सन २०१८-१९ करीता रु.५७९.८५ लक्ष व सन २०१९-२० करीता

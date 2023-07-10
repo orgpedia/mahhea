@@ -15,8 +15,28 @@
 # Page 2
 शासन निर्णय क्रमांकः प्रशामा-०५१९/प्र.क्र.३३३/आरोग्य-७
 अ- अनुदानाचा तपशिल
+-----------------------------------------------------------------------------------------------------------
+| Sr. no | FMR Code | Name of Head | Approved Budget in PIP in 2019-20 (In Lakhs) | Procurement Proposal (In Lakhs) |
+| 1 | FMR Code 6.2.19.1 | Drugs & Supplies for District NCD Clinic | 658.00 | 309.97 |
+-----------------------------------------------------------------------------------------------------------
 ब- प्रस्तावित खरेदीचा तपशिल
-| Sr. No Name of the drugs Unit Cost Quantity | Total cost Approx. ( Rs. )
+--------------------------------------------------------------------------------------------
+| Sr. No | Name of the drugs  |  | Unit Cost Approx. ( Rs. ) | Quantity  |  | Total cost Approx. ( Rs. ) |
+| 1  |  | Streptokinase 7.5 lakhs / Vial | 796.32 | 8500 | 6768720 |
+| 2 | Tencetaplase ( TNK TPA) | 28600 | 250 | 7150000 |
+| 3 | Reteplase rPA = recombinant human tissue plasminogen activator | 22160 | 500 | 11080000 |
+|  | Sub Total (A) | 2,49,98,720 |
+| 4 | Low molecular weight heparin (LMWH) (eg, enoxaparin) | 99.78 | 37500 | 3741750 |
+| 5 | Tab Aspirin 75mg | 0.21 | 100000 | 21000 |
+| 6 | Tab Clopidrogel 75mg | 0.61 | 100000 | 61000 |
+| 7 | Tab Sorbitrate 5mg | 0.75 | 50000 | 37500 |
+| 8 | Inj Pethidine | 80 | 25000 | 2000000 |
+| 9 | Enalpril 5 mg | 0.26 | 112500 | 29250 |
+| 10 | Tab Metaprolol 50 | 0.578 | 112500 | 65025 |
+| 11 | Tab Atrovastatin 10 | 0.35 | 125000 | 43750 |
+| Sub Total (B) | 5999275 |
+| Grand Total (A + B ) |  |  | 3,09,97,995 |
+--------------------------------------------------------------------------------------------
 वरील तपशिल विचारात घेता सदरची प्रशासकीय मान्यता पुढील अटी व शर्तीच्या अधीन राहून
 देण्यात येत आहे:
 १) सदर औषधी सामुग्रीची आवश्यकता / मागणी याची शहानिशा / खातरजमा करण्यात यावी.

@@ -11,9 +11,53 @@
 सदर कामाचे अंदाजपत्रक सन २०१९-२०२० च्या दरसूचीवर आधारीत आहे. प्रादेशिक मनोरुग्णालय, येरेवडा, पुणे येथील प्रस्तावित इमारतीच्या बांधकामाकरीता रु.२३९.४४ लक्ष खर्चाच्या अंदाजपत्रक व आराखडयास खालील प्रमाणे प्रशासकीय मान्यता देण्यात येत आहे :
 # Page 2
 शासन निर्णय क्रमांकः प्रशामा-२०१९/प्र.क्र. ३०१/आरोग्य ३अ
+-----------------------------------------------------------------------------------------------------------------------------
+| NAME OF WORK (1) :- Repairs to Doctor and Nurses Quarters at Regional Mental Hospital and Residential Qtr, Yerawada, Pune-6 |
+| RECAPITULATION SHEET |
+| Work Portion | RS. 7346687.00 |
+| Royalty Charges | RS. 2452.00 |
+| Testing | RS. 9400.00 |
+| Total (A) | RS. 7358539.00 |
+| Add Electrical Charges (Internal) | 11% RS. 809439.00 |
+| Add CGST+MGST on Work Cost | 12% RS. 996211.00 |
+| Insurance | 0.50% RS. 36780.00 |
+| Centage Charges | 5.00% RS. 368050.00 |
+| Total (B) | RS. 2210480.00 |
+| Total (A)+(B) | RS. 9569019.00 |
+|  | Say RS. 95.69 Lakh |
+-----------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+| NAME OF WORK (2) :- Repairs to Dormetory Ward No 1,2,3 at Regional Mental Hospital, Yerawada, Pune-6 |
+| RECAPITULATION SHEET |
+| Work Portion | RS. 7005105.00 |
+| Royalty Charges | RS. 1548.00 |
+| Testing | RS. 9400.00 |
+| Total (A) | RS. 7016053.00 |
+| Add Electrical Charges (Internal) | 11% RS. 771766.00 |
+| Add CGST+MGST on Work Cost | 12% RS. 949892.00 |
+| Insurance | 0.50% RS. 35073.00 |
+| Centage Charges | 5.00% RS. 350880.00 |
+| Total (B) | RS. 2107611.00 |
+| Total (A)+(B) | RS. 9123664.00 |
+|  | Say RS. 91.24 Lakh |
+------------------------------------------------------------------------------------------------------
 पृष्ठ ४ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-२०१९/प्र.क्र. ३०१/आरोग्य ३अ
+-------------------------------------------------------------------------------------------------------------------
+| NAME OF WORK (3):- Construction of Dinning Hall for Female section 1 at Regional Mental Hospital, Yerwada, Pune-6 |
+| RECAPITULATION SHEET |
+| Work Portion | RS. 4038538.00 |
+| Royalty Charges | RS. 7498.00 |
+| Testing | RS. 16350.00 |
+|  | RS. 4062386.00 |
+| Add 11% for Electrification | RS. 446862.00 |
+| Add 12% For GST | RS. 487486.00 |
+|  | RS. 5077982.00 |
+| Add 5% For Centage Charges | RS. 253899.00 |
+| Total | RS. 5250652.00 |
+|  | Say RS. 52.51 Lakh |
+-------------------------------------------------------------------------------------------------------------------
 अटी व शर्ती :
 १) काम सुरु करण्यापुर्वी नमुना नकाशा, मांडणी नकाशा, तसेच विस्तृत नकाशास
 वास्तुविशारदांकडून मंजूरी घेऊनच सुरु करावे.

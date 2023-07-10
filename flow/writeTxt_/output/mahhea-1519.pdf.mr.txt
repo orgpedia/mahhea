@@ -15,11 +15,78 @@
 (अक्षरी रूपये तिनशे चौदा कोटी अकरा लक्ष एकोणतीस हजार फक्त) इतक्या रकमेच्या
 अंदाजपत्रके व आराखडे यास पुढीलप्रमाणे प्रशासकीय मान्यता देण्यात येत आहे.
 सदर बांधकामावरील खर्चाच्या तरतूदी खालीलप्रमाणे आहेत:
+------------------------------------------------------------------------------------------
+| RECAPITULATION SHEET |
+| Sr. No. | Particulars of Scope | Unit Rate Norms Rs. Per (Sqmt./Meter/Lumpsum Etc.) | Cost Rs. |
+|  |  | Sqmt/Rmt/Lumpsum etc. | Component Wise | Total |
+| A | ESSENTIAL ITEMS (COMPONENTS) |  |  |  |  |
+| 1 | (a) Building proper (Built Up Area - Sq.m) |  |  |  |  |
+|  | Basement | 6067.94 | 41745.00 | 253306155.30 |  |
+|  | Ground floor (Including Plinth Protection) | 4734.32 | 41745.00 | 197634188.40 |  |
+|  | 1st floor | 4689.32 | 28108.00 | 131807406.56 |  |
+|  | 2nd floor | 4689.32 | 28387.00 | 133115726.84 |  |
+|  | 3rd floor | 4689.32 | 28665.00 | 134419357.80 |  |
+|  | 4th floor | 4689.32 | 28943.00 | 135722988.76 |  |
+|  | 5th floor | 4689.32 | 29222.00 | 137031309.04 |  |
+|  | 6th floor | 2988.97 | 29500.00 | 88174615.00 |  |
+|  | Nurses Training centre and Hostel | 5500.00 | 29500.00 | 162250000.00 |  |
+|  | Total B.U.A. = | 42737.83 |  | Sub Total (a) | 1373461748.00 |
+|  | (b) Fuel Gas Pipeline + Centralize 02 Gas |  |  | 30000000.00 |  |
+|  | (c) Bio Digester |  |  | 10000000.00 |  |
+|  | (d) Rain/ roof water harvesting |  |  | 2788596.00 |  |
+|  | (e) Solar roof top (MoU to be executed)* |  |  | 10793000.00 |  |
+|  | (f) Ramp for handicaps |  |  | 1000000.00 |  |
+|  | (g) Furniture | 36670.00 | 9988.00 | 366259960.00 |  |
+|  | Sub Total (b+c+d+e+f+g) |  |  |  | 420841556.00 |
+| 2 | Water Supply & Sanitary Works |  | 5% of (a) | Sub Total (2) | 68673087.00 |
+| 3 | a) Electrification (As per estimate attached) |  |  | 91728305.00 |  |
+|  | b) Fire fighting Arrangements etc. (As per estimate attached) |  |  | 84251964.00 |  |
+|  |  |  |  | Sub Total (3) | 175980269.00 |
+|  |  |  | Sub Total (A) | 2038956660.00 |
+| B | MISCELLANEOUS ITEMS |  |  |  |  |
+|  | (I) Demolition of existing building |  |  | 8000000.00 |  |
+|  | (II) Compound wall & Gate (Rmt.) | 716.00 | 35970.00 | 25754520.00 |  |
+|  | (III) Internal Roads (Rmt.) | 1000.00 | 28355.00 | 28355000.00 |  |
+|  | (IV) Development of ground |  |  | 1000000.00 |  |
+|  | (V) Parking Area | 1200.00 | 2880.00 | 3456000.00 |  |
+|  | (VI) Retaining Wall |  |  | 0.00 |  |
+------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-२०१९/प्र.क्र.१५१/आ-३अ
 8000000.00
 (VII) Land Scaping Gardens
+---------------------------------------------------------------------------------------------------
+|  | (VIII) Soil Investigations & Detail Land Survey |  |  | 4000000.00 |  |
+|  | (IX) CC Drains and CD Works | 716.00 | 23290.00 | 16675640.00 |  |
+|  | (X) Sewage Treatment Plant (2 Nos) |  |  | 13000000.00 |  |
+|  | (XI) Parking Sheds for Vehicles (2 Nos) |  |  | 5000000.00 |  |
+|  | (XII) Flag Post (2 Nos) |  |  | 400000.00 |  |
+|  | (XIII) Temporary Sheds for office room at site Nos) |  |  | 1000000.00 |  |
+|  | (XIV) Vertical Stack Parking ( 100 Vehicles) |  |  | 20000000.00 |  |
+|  | (XV) Autocad drawings, Photographs, video shooting (2 Nos) |  |  | 3500000.00 |  |
+|  | (XVI) Add 3% on Building cost (a) for Approval of other Department & Local Bodies |  |  | 41203852.00 |  |
+|  | (XVII)Connecting Bridge between hospital and super speciality hospital |  |  | 10000000.00 |  |
+|  |  |  | Sub Total (B) | 189345012.00 |
+|  | Sub Total (A) = (1) + (2) + (3) + (B) |  |  |  | 4267258332.00 |
+| с | OPTIONAL ITEMS |  |  |  |  |
+| 1 | Water Tank, Fire fighting water tank, Bore well & Pump House (2 Nos each) |  |  | 30000000.00 |  |
+| 2 | Air Conditioning |  |  | 100836645.00 |  |
+| 3 | Lifts |  |  | 21000000.00 |  |
+| 4 | External Toilets |  |  | 6000000.00 |  |
+| 5 | AB Room, area lighting, pupms, generator |  |  | 77236717.00 |  |
+| 6 | CCTV |  |  | 10000000.00 |  |
+|  |  |  | Sub Total (C) | 245073362.00 |
+|  |  | Project Cost (P)= (A)+(B)+(C) | 2473375034.00 |
+| D | PROVISIONS |  |  |  |  |
+|  | (I) Contingencies 4% on (a) |  |  | 54938469.92 |  |
+|  | (II) Green Building 5% on (a) |  |  | 68673087.4 |  |
+|  | (III) GST 12% on (P) |  |  | 296805004.1 |  |
+|  | (IV) Price Escalation 10% on (P) |  |  | 247337503.4 |  |
+|  |  |  | Sub Total (D) | 667754064.8 |
+|  | Total Project Cost (TPC) (A + B + C + D) | 3141129098.80 |
+|  | Say Rs. Lakhs | 31411.29 |
+---------------------------------------------------------------------------------------------------
 अटी व शर्ती:
 १) कामासाठी निविदा मागविण्याआधी सदर कामास सार्वजनिक बांधकाम विभागातील
 सक्षम अधिकाऱ्यांची तांत्रिक मंजुरी घेणे आवश्यक राहील.

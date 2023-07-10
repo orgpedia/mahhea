@@ -26,6 +26,17 @@
 करावयाच्या घटकांपैकी ज्या घटकांवर कार्यवाही झालेली नाही त्या घटकांसाठी सन २०१८-१९ या
 आर्थिक वर्षात खर्च करण्यास प्रशासकीय मान्यता देण्यात येत आहे. त्याचा तपशिल खालीलप्रमाणे
 आहे.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| अ.क्र. | घटक | तपशिल | नग रक्कम (लाखात) | नग संख्या | एकूण रक्कम (लाखात) |
+| 3 | To ensure 24 x 7 availability of  |  electricity | solar photo voltaic system  |  installation at PHCs, RH, SDH from Gadchiroli, Melghat, Nashik,  |  Nandurbar and Palghar (63) | 10 | 20 PHCS | 200 |
+| 12 | 34 RH | 408 |
+| 14 | SDH | 126 |
+| 4 | Expanding Cold Chain  |  Facility at State Vaccine Store | Walk in Cooler (WIC) of 40 cum capacity with stabilizer and generator | 35 | 3 | 105 |
+| 5 | Transport of vaccine from state to regional stores  |  | Refrigerated vaccine van | 40 |  | 80 |
+|  | Transport of drugs and  |  consumables from regional to district stores | Light Commercial Vehicle (LCV)  |  for transport of medicines and consumables | 8.096 |  | 64.766 |
+| 8 | Vehicles to 16 Tribal  |  districts for DRCHO and RMO (OR) | Mobility support to DRCHO/RMO  |  (OR) for monitoring and supervision | 6 | 16 | 96 |
+| 9 | Conversion of 102  |  Ambulances in  |  Vatsalya vehicle for drop back | Existing 102 ambulances from high delivery points. | 1 |  | 8 |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 उपरोक्त प्रशासकीय मान्यता खालील अटींच्या अधिन राहून मान्यता देण्यात येत आहे.
 १) सदर साहित्य सामुग्रीची आवश्यकता / मागणी याची शहानिशा / खातरजमा करण्यात
 यावी. त्यानंतरच सदर बाबींच्या खरेदीसाठी निविदा प्रक्रिया राबविण्यात यावी. प्रशासकीय

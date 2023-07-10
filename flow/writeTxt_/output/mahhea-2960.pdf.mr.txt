@@ -26,6 +26,22 @@ Postmortem Room ) at Ulhasnagar Dist. Thane
 (2) Construction of Internal roads in the Central Hospital premises (towards
 Tramacare Center Side) at Ulhasnagar Dist. Thane
 RECAPITULATION SHEET
+------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr.No. | Sub-Estimate Title |  |  | Amount (Rs.) |
+| 1. | Construction of Internal roads in the Central Hospital premises (towards Postmortem Room) at Ulhasnagar Dist. Thane |  |  | Rs. 17,70,103.14 |
+|  |  |  | Sub Total | Rs.17,70,103.14 |
+|  | Add Insurance towards Labour | @1.00% |  | Rs.17,701.03 |
+|  | Add G.S.T. | @12.00% |  | Rs.2,12,412.38 |
+|  |  |  | Total | Rs.2000219.54 |
+|  |  |  | Say Rs. | Rs.2000000.00 |
+| 2 | Construction of Internal roads in the Central Hospital premises (towards Tramacare Center Side) at Ulhasnagar Dist. Thane |  |  | Rs. 17,70,107.69 |
+|  |  |  | Sub Total | Rs. 17,70,107.69 |
+|  | Add Insurance towards Labour | @1.00% |  | Rs. 17,701.00 |
+|  | Add G.S.T. | @12.00% |  | Rs.2,12,412.92 |
+|  |  |  | Total | Rs. 20,00221.69 |
+|  |  |  | Say Rs. | Rs. 2000225.00 |
+|  |  |  | Total 1+2 | Rs. 4000225.00 |
+------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ४ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-२०२०/प्र.क्र.१५६/ आरोग्य-३अ

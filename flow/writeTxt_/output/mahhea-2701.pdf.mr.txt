@@ -15,6 +15,13 @@
 प्रमाणे निर्णय घेण्यात येत आहे.
 शासन निर्णय : प्रादेशिक मनोरुग्णालय, पुणे, ठाणे व रत्नागिरी येथे सी.सी.टी.व्ही. कॅमेरे व त्याअनुषंगाने लागणारी
 उपसाधने (अॅसेसरी) बसविण्यासाठी येणा-या खर्चास खालीलप्रमाणे प्रशासकीय मान्यता देण्यात येत आहे :
+--------------------------------------------------------------------------------------------------------------------
+| अ.क्र | कार्यालयाचे नाव | एकुण सी.सी.टि.व्ही कॅमे-याचे संख्या व त्याला लागणारी उपसाधने (अॅसेसरी) | अंदाजित रक्कम (रुपये) |
+|  | प्रादेशिक मनोरुग्णालय, पुणे | २० | रु.१५,००,०००/ |
+| २ | प्रादेशिक मनोरुग्णालय, ठाणे | ३० | रु.१९,००,०००/ |
+|  | प्रादेशिक मनोरुग्णालय, रत्नागिरी | ३५ | रु.२१,००,०००/ |
+|  | एकुण | ८५ | रु.५५,००,०००/ |
+--------------------------------------------------------------------------------------------------------------------
 # Page 2
 शासन निर्णय क्रमांकः प्रशामा-२०२०/प्र.क्र.२९/आरोग्य ३अ
 माहिती तंत्रज्ञान संचालनालयाने दि. ४.३.२०१३ च्या पत्रान्वये सी.सी. टि. व्ही. कॅमेरा बसविणेकरिता
@@ -39,16 +46,83 @@ A. Indoor Cameras
 पृष्ठ ७ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-२०२०/प्र.क्र.२९/आरोग्य ३अ
+----------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Parameter | Specification |
+| 1. | Video Compression | H.264 |
+| 2. | Video Resolution | 1280x720 or above |
+| 3. | Frame Rate | Minimum 25 fps in all resolutions |
+| 4. | Image Sensor | Minimum ¹¼" progressive Scan CCD/CMOS |
+| 5. | Lens Type | Fixed Focal/ Varifocal |
+| 6. | Lens | 2.7- 8 mm, 4xDigital Zoom |
+| 7. | Minimum Illumination | Colour: 1lux, B/W:0.5 lux (at 30 IRE) |
+| 8. | Image Settings | Compression colour, Brightness, Sharpness, Contrast, White balance, exposure control, black light compensation |
+| 9. | Audio | Built in microphone |
+| 10. | Protocol | HTTP,HTTPS,FTP,SMTP,RTSP,RTP,TCP,UDP,RTCP,DHCP,UPnP, QoS |
+| 11. | Security | Password protection, IP Address Filtering, User Access Log |
+| 12. | Operating Condition | 0 to 50 o C |
+| 13. | Casing | Tamper Resistant casing for Indoor Environment (Box or Dome) |
+----------------------------------------------------------------------------------------------------------------------------------
 B. Outdoor Cameras
+---------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Parameter | Specification |
+| 1. | Video Compression | H.264 |
+| 2. | Video Resolution | 1280x720 or above |
+| 3. | Frame Rate | Minimum 25 fps in all resolution |
+| 4. | Image Sensor | Minimum 1/4" progressive Scan CCD/CMOS |
+| 5. | Lens Type | Fixed Focal/ Varifocal |
+| 6. | Lens | 2.7- 8 mm, 4x digital zoom |
+| 7. | Minimum Illumation | Clour: 1lux, B/W:0.5 lux (at 30 IRE) |
+| 8. | Image Setting | Compression colour, Brightness, Sharpness, Contrast, White balance, exposure control, black light compensation |
+| 9. | Audio | Built in microphone |
+| 10. | Protocol | HTTP,HTTPS,FTP,SMTP,RTSP,RTP,TCP,UDP,RTCP,DHCP,UPnP, QoS |
+| 11. | Security | Password protection, IP Address Filtering, User Access Log |
+| 12. | Operating Condition | 0 to 50 oC |
+| 13. | Casing | Outdoor Camera ( in open sky) to include IP66 Casing (Box or Dome) |
+---------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः प्रशामा-२०२०/प्र.क्र.२९/आरोग्य ३अ
 C. PTZ Cameras
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Parameter | Specification |
+| 1. | Video Compression | H.264 |
+| 2. | Video Resolution | 1280x720 or above |
+| 3. | Frame Rate | Minimum 25 fps in all resoluation |
+| 4. | Image Sensor | Minimum 4¹/" progressive Scan CCD/CMOS |
+| 5. | Lens Type | Fixed Focal/ Varifocal |
+| 6. | Lens | 4x digital zoom, 10xoptical zoom |
+| 7. | Minimum Illumination | Colour: 0.5 lux, B/W:0.1 lux (at 30 IRE) |
+| 8. | Panning Range | 360 degrees (endless) |
+| 9. | Tilting Range | 0 degrees to 90 degrees |
+| 10. | Image Setting | Compression, colour, Brightness, Sharpness, Contrast, White balance, exposure control, black light compensation, Auto tracking, per set tour settings |
+| 11. | Audio | Built in microphone |
+| 12. | Protocol | HTTP,HTTPS,FTP,SMTP,RTSP,RTP,TCP,UDP,RTCP,DHCP,UPnP, QoS |
+| 13. | Security | Password protection, IP Address Filtering, User Access Log |
+| 14. | Operating Condition | 0 to 50 oC |
+| 15. | Casing | Tamper Resistant Casing for Indoor Environment |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 सी.सी.टी.व्ही. कॅमेरे कार्यान्वीत करण्याकरीता लागणारी उपसाधने (अॅसेसरी) यांचा तपशील
 खालीलप्रमाणे :
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No | Material Description |
+| 1 | 16 inch Network Video Recorder with capability to view live / prerecorded video, H.264/MPEG-4 Dual Codec Decoding, HDMI, VGA, 2 USB2.0, Dual-core CPU |
+| 2 | 32 inch Network Video Recorder with capability to view live / prerecorded video, H.264/MPEG-4 Dual Codec Decoding, HDMI, VGA, 2 USB2.0, Dual-core CPU |
+| 3 | 40" LED Monitor. Samsung (or higher) |
+| 4 | 4TB Hard Disk of Any Standard Manufacturer with Standard such as CE/FCC/ISO for (Minimum seven days recording) |
+| 5 | 24 port 100/1000 MBPS Switch |
+| 6 | 8 port 100/1000 MBPS Switch |
+| 7 | Supply and fixing of 6U Wall Mount Rack |
+| 8 | Supply and laying of OFC cable with pipe/casing with ISO Mark( Inclusive of Installation and |
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ७ पैकी ४
 # Page 5
 शासन निर्णय क्रमांकः प्रशामा-२०२०/प्र.क्र.२९/आरोग्य ३अ
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | Fitting) |
+| 9 | Supply and laying of CAT-6 Cable with pipe/casing with ISO Mark( Inclusive of Installation and Fitting) |
+| 10 | 2 Core1.5 Sq MM Power Cable for supply of power to all the cameras with PVC Conduit, HDPE Pipe, Casing-Caping, Flexible Wire, Ethernet Ports, Saddling, Jumper, Turning pipe, screws, etc wherever necessary at site. |
+| 11 | Supply and erecting ISI mark G.I. Camera mounting pole. |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 अटी व शर्ती :
 १. सदर खरेदीसाठी शासन निर्णय, उदयोग, उर्जा व कामगार विभाग, क्रमांक भांखस-२०१४/प्र.क्र.८२/
 भाग ||/उदयोग-४, दि.०१.१२.२०१६ अन्वये प्रसिध्द केलेल्या सुधारीत नियमपुस्तिकेत विहित

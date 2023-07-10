@@ -15,7 +15,17 @@
 # Page 2
 शासन निर्णय क्रमांकः प्रशामा-१११८/प्र.क्र.५८१/आ -७
 अनुदान व खरेदीचा तपशिल :
+-------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. no | FMR Code | Name of Head | Approved Budget in PIP in 2018-19 (In Lakhs) | Available Budget (In Lakhs) | Proposal for Procurement (In Lakhs) |
+| 1 | 6.5.2 | Procurement of Sleeves & Drug Boxes | 324.86 | 324.86 | 141.00 |
+-------------------------------------------------------------------------------------------------------------------------------------------
 खरेदी करावयाच्या बाबीचे विनिर्देश व खरेदी प्रस्ताव
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Technical Specification | Unit of Measurement | Approx rate In Rs. | Total Required quantity | App. Total Cost In Lakhs |
+| Cardboard Box (cartoon) Type-A Material- 3 Ply corrugated, Top paper 230 gsm White colour, inner wall having 2 ply all 150 gsm Brown colour. Opening- from Top with attached lid. Packing- Box prepared by heavy stapler pins. Size- 12.75" X 7.5" X 3.25" (Inch) Colour- Outer White & Inner Brown. Partitions in the Box- 3 ply white to white 2 Vertical and 12 Horizotal, Fitting in to Vertical serially. Size of Partition - Horizontal 7.5" X 2.75" Vertical 12.5" X 2.75" | Number | Rs.50/ | 170000 | 85.00 |
+| Cardboard Box (cartoon) Type- B Material- 3 Ply corrugated, Top paper 230 gsm White colour, inner wall having 2 ply all 150 gsm Brown colour. Opening- from Top with attached lid. Packing- Box prepared by heavy stapler pins. Size- 15" X 9" X 3" (Inch) Colour- Outer White & Inner Brown. Partitions in the Box a) 14" X 3" = 3 b) 8.5" X 3" = 6 c) 2.7" X 2.4" = 9 d) 14" X 2.4" = 1 | Number | Rs.80/ | 70000 | 56.00 |
+| Total Amt. | 141.00 |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 २. प्रस्तुत प्रकरणी सहसंचालक, आरोग्य सेवा, (क्षयरोग व कुष्ठरोग), पुणे यांनी सादर केलेल्या
 वरील प्रस्तावाच्या अनुषंगाने क्षयरुग्णांना आवश्यक असणाऱ्या औषधी पुरविण्यासाठी Cardboard
 Box खरेदी करण्याकरीता रु. १४१.०० लक्ष च्या खरेदीकरीता FMR Code 6.5.2 (Procurement of

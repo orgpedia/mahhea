@@ -14,15 +14,79 @@
 शासन निर्णय क्रमांकः प्रशामा-१२२१/प्र.क्र.०७/आरोग्य-७
 खरेदी करावयाच्या बाबींचा तपशील
 विवरणपत्र - अ
+------------------------------------------------------------------------------------------------------------------------------------
+| 'लं अ. | जिल्हयाचे नाव | तालुक्याचे नाव | रुग्णवाहिकांची एकूण संख्या | रुग्णवाहिकेची किंमत (Neonatal Ambulance) | उपकरणांची किंमत | एकूण किंमत |
+|  | नंदुरबार | अक्कलकुवा |  | १९,५७,१८७.०० |  |  २७,९२,१२०.00 | ४७,४९,३०७.०० |
+| २ | नंदुरबार | धडगाव |  | १९,५७,१८७.०० |  |  २७,९२,१२०.00 | ४७,४९,३०७.०० |
+| ३ | अमरावती | धारणी |  | १९,५७,१८७.०० |  |  २७,९२,१२०.०० | ४७,४९,३०७.०० |
+|  | अमरावती | चिखलदरा | १ | १९,५७,१८७.०० |  |  २७,९२,१२०.०० | ४७,४९,३०७.०० |
+| ५ | नाशिक | पेठ | १ | १९,५७,१८७.०० |  |  २७,९२,१२०.०० | ४७,४९,३०७.०० |
+| एकूण | २,३७,४६,५३५.०० |
+------------------------------------------------------------------------------------------------------------------------------------
 विवरणपत्र-ब
 तांत्रिक समितीने निश्चित केल्यानुसार उपकरणांची यादी व त्यांची अंदाजित किंमत, Ambulance
 Modification/Refurbishment याचा तपशील
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr.No | Description of Equipment | Use of Equipment | Required quantity for 5 Ambulance | Unit Cost | Total Cost Equipment (5 Ambulances ) |
+| A) | Equipment's |  |  |  |  |
+| 1 | Self-Inflating Reservoir Bag | Use during resuscitation of newborn. | 5 | 3200 | 16000 |
+| 2 | Monitor | For monitoring multiple parameters of newborn like HR, RR, SpO2, BP etc... | 5 | 150000 | 750000 |
+| 3 | Baby warmer during transport | To keep baby warm and maintain body temperature of newborn. | 5 | 5000 | 250000 |
+| 4 | Syringe Pump | For giving intravenous fluids in very slow manner & minute quantity to newborn. | 5 | 26840 | 134200 |
+| 5 | O2 Hood | Used to provide oxygen to newborn. It is interface. | 5 | 4000 | 20000 |
+|  | Transport Incubator | For transportation of critical baby along with maintaining body temperature of newborn. | 5 | 1000000 | 5000000 |
+| 7 | Kangaroo Bag | To keep baby in KMC position with mother during transport. | 5 | 1000 | 5000 |
+| 8 | Infusion Pump | For giving intravenous fluids to newborn | 5 | 49280 | 246400 |
+| 9 | Suction Machine | Used for suctioning of newborn. | 5 | 60000 | 300000 |
+| 10 | Bubble CPAP | It is non-invasive ventilations by which oxygen is delivered to newborn. | 5 | 395000 | 1975000 |
+| 11 | Glucometer | To check blood glucose level. | 5 | 3000 | 15000 |
+| 12 | O2 Cylinder | Source of oxygen. | 5 | 16000 | 80000 |
+| 13 | Instrument tray | Keep medical instruments &equipment's. | 5 | 1000 | 5000 |
+| 14 | Transport stretcher with protable oxygen mounting | Transport of mother & baby together. | 5 | 225000 | 1125000 |
+| 15 | Portable O2 Cylinder | It is small cylinder used during transport of newborn. | 5 | 7800 | 39000 |
+|  | Sub Total |  |  | 1992120 | 9960600 |
+| B) | Ambulance modification/refurbishment cost | For fitting of all major equipment's, processing for chemical and water resistance, modification to reduce infections. | 5 | 600000 | 3000000 |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-१२२१/प्र.क्र.०७/आरोग्य-७
+----------------------------------------------------------------------------------------------------------------------------------
+| Sr. No | Description of Equipment | Use of Equipment | Required quantity for 5 Ambulance | Unit Cost | Total Cost Equipment (5 Ambulances) |
+|  | Miscellaneous (Medicines, Consumables, equipment etc.) |  | 5 | 200000 | 1000000 |
+|  | Sub Total |  |  | 2792120 | 13960600 |
+| D) | Type C Ambulance |  | 5 | 1957187 | 9785935 |
+|  | Total |  |  |  | 23746535 |
+----------------------------------------------------------------------------------------------------------------------------------
 विवरणपत्र-क
 संकीर्ण औषधे, साहित्य व उपकरणे यांचा तपशील व अंदाजे किंमत
 ( विवरणपत्र - ब मधील अ.क्र.C)
+-----------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Drug / Item | Annual Appx. Qty. for 5 Ambulance | Appx. Budget Required (in Lakh) (2lakh/Ambulance) |
+| 1 | Amikacin Inj 100mg 2ml | 1000 | 0.1 |
+| 2 | Amoxycillin + Clavulanic Acid Inj 500mg + 100 mg Vial | 1500 | 0.3 |
+| 3 | Calcium GluconateInj 100 mg/ml 10 ml | 1500 | 0.1 |
+| 6 | Dextrose I.V 25% 100ml | 2250 | 0.2 |
+| 7 | Disposable cap | 2500 | 0.0 |
+| 8 | Disposable Plastic Gloves Each | 2500 | 0.9 |
+| 9 | Disposable syringe 50ml | 2000 | 0.1 |
+| 10 | Disposable syringe sterile with needle 1inch 2 ml | 2000 | 0.0 |
+| 11 | Disposable syringe sterile with needle 1inch 5 ml Each | 1500 | 0.0 |
+| 12 | DobutamineInj 250 mg 5 ml | 1500 | 3.6 |
+| 13 | Endotracheal Tube Plain 3.5 | 2500 | 0.4 |
+| 14 | I.V.Cannula 24G Each | 2000 | 0.2 |
+| 15 | I.V.Cannula 26G Each | 2000 | 0.6 |
+| 16 | Potassiun chloride Inj 150mg/ml 10ml | 1500 | 0.7 |
+| 17 | Pricking Lancet | 2500 | 0.0 |
+| 18 | Rolled cotton Bandage as per Schedule F-II 15 cm x 4 Mtr Roll | 2500 | 0.3 |
+| 19 | Saline Nasal Drop 10 ml | 2500 | 0.4 |
+| 20 | Sodium Chloride (Normal saline) 0.9% IV 500 ml Bottle | 2500 | 0.4 |
+| 21 | Soft Cotton Roll 50gm Packet | 2500 | 0.5 |
+| 22 | Suction tube Each | 2500 | 0.6 |
+| 23 | Surgical Rubber Gloves no. 7 Pair | 2500 | 0.2 |
+| 24 | Triple layer face mask Each | 2500 | 0.2 |
+| 25 | Water for injection 10 ml | 2500 | 0.1 |
+| Total Budget Required |  | 10.0 |
+-----------------------------------------------------------------------------------------------------------------
 ०२. सदर प्रशासकीय मान्यता पुढील अटी व शर्तींच्या अधीन राहून देण्यात येत आहे.:
 १) सदर सामुग्रीची आवश्यकता / मागणी याची शहानिशा / खातरजमा करण्यात यावी. त्यानंतरच
 सदर बाबींच्या खरेदीसाठी निविदा प्रक्रिया राबविण्यात यावी.

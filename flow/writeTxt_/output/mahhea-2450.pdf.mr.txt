@@ -23,6 +23,21 @@
 त्याबाबतचा तपशील पुढीलप्रमाणे आहे :
 # Page 2
 शासन निर्णय क्रमांकः प्रशामा-१२२०/प्र.क्र.२२/आरोग्य-७
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Item | FMR Code | Perticulars | PIP Approved RS. (In Lakhs) | Procurement proposal Rs. (In Lakhs) |
+| 1 | छपाई | 12.1.2 | Printing of MCP cards, safe motherhood booklets etc. | 104 | 104 |
+| 12.1.3 | Printing of labor room registers and casesheets / Laqshya related printing. | 124.79 | 124.79 |
+| 12.1.5 | Any other (CAC Printing) | 416.71 | 334.89 |
+| 12.2.5 | Printing of compliance cards and reporting formats for National Iron Plus Initiative for 6-59 months age group and for 5-10 years age group | 45.14 | 45.15 |
+| 12.2.12 | Printing of HBYC | 20.3 | 20.3 |
+| 12.3.3 | Printing of FP manuals, Guidelines, etc. | 283.62 | 283.62 |
+| 12.3.5 | Any other (please specify) | 254.54 | 254.54 |
+| 12.4.1 | PE Kit and PE Diary | 47.29 | 47.29 |
+| 12.4.2 | Printing under WIFS-WIFS cards, WIFS registers, reporting format etc. | 32.75 | 32.75 |
+| 12.4.3 | Printing of AFHC-AFHHC Registers, reporting format etc. | 16.2 | 16.2 |
+| 12.10.1 | Printing and dissemination of Immunization cards, tally sheets, monitoring forms etc. | 429.41 | 230.30 |
+|  |  | Total | 1774.8 | 1493.83 |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ०२. सदरची प्रशासकीय मान्यता पुढील अटींच्या अधीन राहून देण्यात येत आहे:
 १) सदर साहित्य सामुग्रीची आवश्यकता / मागणी याची शहानिशा / खातरजमा करण्यात यावी.
 त्यानंतरच सदर बाबींच्या खरेदीसाठी निविदा प्रक्रिया राबविण्यात यावी.

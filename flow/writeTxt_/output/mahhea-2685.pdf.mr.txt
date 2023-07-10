@@ -21,7 +21,51 @@
 Tablet खरेदीस प्रशासकीय मान्यता पुढील अटींच्या अधीन राहून देण्यात येत आहे:
 विवरणपत्र
 अ- अनुदानाचा तपशिल
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. | FMR code | Name of Head | Approved Budget (In lakhs) | Available budget at State level ( In lakhs ) | Procurement Proposal |
+| 1 | 6.1.2.5.a | Tablets, Software for HWC and ANM/ MPW | 1352.00 (Supplementary PIP 2019-20) | 338.00 | Procurement of Tablets for CHO Total Amt. Rs.312.00 Lakhs |
+| 2 | 6.1.2.5.1 | Tablets, Software for HWC and ANM/ MPW | 6.1.2.5.1 (PIP 2020-21) | 265.20 | Procurement of Tablets for CHO Total Amt. Rs.265.20 Lakhs |
+|  |  | Total | 603.20 | 523.38 |
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 ब- प्रस्तावित खरेदीचा तपशिल
+----------------------------------------------------
+| Sr. No. |  |  |  | FMR Code |  |  |  |  |  | Required |  |  |
+|  | Name of |  |  | Approx. |  |  | Approved |  |
+|  | Name of |  |  |  |  |  | Proposed |  | Total |
+| Item's/ | Rate Per | Budget |
+| Scheme |  | Qty. | Amt. |
+| Particular | Unit (Rs.) | (In Lakhs) |
+|  |  |  | (In Lakhs) |
+|  |  |  |
+|  |  |  |  |  |  |  |  |
+|  | Tablets ; |  |  | Purchase |  |
+|  | 6.1.2.5.a |  |
+| Software for | of |
+| 1 |  | (Supplementary |  | 2600 |  |  | 13000 |  |  | 338.00 |  |  | 338.00 |  |
+| H & WC and | Tablets |
+|  | PIP 2019-20) |  |  |  |  |
+| ANM/MPW | for CHO |
+|  |
+|  |  |
+|  |  |  |  |  |  |  |  |
+|  | Tablets ; |  |  | Purchase |  |
+| Software for |  | 6.1.2.5.1 |  | of |
+| 2 |  |  | 2040 |  |  | 13000 |  |  | 265.20 |  |  | 265.20 |  |
+| H & WC and | (PIP 2020-21) | Tablets |
+|  |  |  |  |  |
+| ANM/MPW |  | for CHO |
+|  |  |
+|  |  | Tablets ; |  |  |  |  |  |  |  |
+|  | Purchase |  |
+| Software for |
+| of |
+|  |  | H & WC and |  |  |  |  | 4026 |  |  | 13000 |  |  | 523.38 |  |  | 603.20 |  |
+| Tablets |
+|  | ANM / |  |  |  |  |  |
+| for CHO |
+| MPW |
+|  |
+----------------------------------------------------
 ०२. सदरची प्रशासकीय मान्यता पुढील अटींच्या अधीन राहून देण्यात येत आहे:
 १) सदर टॅबलेटची आवश्यकता / मागणी याची शहानिशा / खातरजमा करण्यात यावी. त्यानंतरच
 सदर बाबींच्या खरेदीसाठी निविदा प्रक्रिया राबविण्यात यावी.

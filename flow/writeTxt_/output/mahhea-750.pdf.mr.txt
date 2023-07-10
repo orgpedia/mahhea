@@ -15,6 +15,40 @@
 # Page 2
 शासन निर्णय क्रमांकः प्रशामा २०१८/प्र.क्र.४३/आरोग्य ३
 RECAPITULATION SHEET
+------------------------------------------------------------------------------------
+| Sr. No. | Particulars of Items | Norms Unit Rate Rs. per Sqmt./Meter/lump Sum | Cost Rs. |
+| A | Essentail Items |  |  |
+| 1 | Building proper (Scope) |  |  |
+|  | a) Area (Sqmt) 957.73 | 22000 per Sqmt. | 2,10,70,060 |
+|  | b) Number of Floors GF |  |  |
+|  | a) Area (Sqmt) 895.38 | 2000 per Sqmt. | 1,96,98,360 |
+|  | b) Number of Floors FF |  |  |
+|  | d) Cost of Construction |  | 4,07,68,420 |
+| 2 | Electrification |  |  |
+|  | Internal | 5% of 1 (d) | 20,38,421 |
+|  |  | 6% of 1 (d) | 24,46,105 |
+|  |  | Total | 44,84,526 |
+| 3 | Water Supply and sanitation | 5% of 1 (d) | 20,38,421 |
+| 4 | Miscellaneous Items |  |  |
+|  | Internal Roads & C.C.Drains | Lump Sum | 10,00,000 |
+|  | Parking Arrangements | Lump Sum | 5,00,000 |
+|  | Rain water harvesting | 1% of 1 (d) | 4,07,684 |
+|  | Fire Fighting Arrangements | 2% of 1 (d) | 8,15,368 |
+|  | Green Building Concept | 5% of 1 (d) | 20,38,421 |
+|  | Furniture 1853.11 | 2500 per Sqmt | 46,32,775 |
+|  |  | Lump sum | 5,00,000 |
+|  |  | Total | 98,84,249 |
+|  | Sub Total = (1)+(2)+(3)+(4) | (A) | 5,71,85,616 |
+| B | Optional Items |  |  |
+|  | Bore well & Pump House, etc | Lump sum | 5,00,000 |
+|  |  | (B) | 5,00,000 |
+|  |  | Project (A) + (B) | 5,76,85,616 |
+|  | Add 4% for GST on (d ) | 16,30,737 |
+|  | Add 10% for price variation on (T) | 57,68,562 |
+|  | Add 12% for GST on (T) | 69,22,274 |
+|  | TOTAL COST OF PROJECT | 7,20,07,188 |
+|  | Say Rs. Lakhs | 720.07 |
+------------------------------------------------------------------------------------
 अटी व शर्ती :
 १) कामासाठी निविदा मागविण्याआधी सदर कामास सार्वजनिक बांधकाम विभागातील सक्षम
 अधिकाऱ्यांची तांत्रिक मंजुरी घेणे आवश्यक राहील.

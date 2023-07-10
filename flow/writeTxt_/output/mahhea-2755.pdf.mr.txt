@@ -17,7 +17,33 @@
 रक्कम रु.३५.७० लक्ष रकमेच्या निविदा प्रक्रियेस खालील विवरणपत्रातील तपशिलास पुढील
 अटींच्या अधीन राहून प्रशासकीय मान्यता देण्यात येत आहे. :
 अनुदानाचा तपशिल
+-----------------------------------------------------------------------------------------------------
+| Sr. | FMR Code | Approved Budget in PIP in 2020-21 (In Lakhs) | Proposal for Procurement (In Lakhs) |
+| 1 | 6.1.1.15.2 | 35.80 | As discussed in NPCC meeting approved @ Rs.17.9 L/DPHL for Beed and Nashik each. |
+-----------------------------------------------------------------------------------------------------
 उपकरणे खरेदीचा तपशिल
+----------------------------------------------------------------------------------------------------
+| Instruments For Procurement of District Priority Laboratories (DPL) Beed and Nashik |
+| Sr. No | Name of Instruments | Rate Per Unit in Lakh | District Name | Total Quantity | Total Amount In Lakh |
+| Beed | Nashik |
+| 1 | Biosafety cabinet Class II A | 2.58 | 1 | 1 | 2 | 5.16 |
+| 2 | Autoclave (Sterilization ) | 1.24 | 1 | 1 | 2 | 2.48 |
+| 3 | Autoclave (Decontamination) | 1.24 | 1 | 1 | 2 | 2.48 |
+| 4 | Hot Air Oven | 0.55 | 1 | 1 | 2 | 1.1 |
+| 5 | Incubators | 0.6 | 1 | 1 | 2 | 1.2 |
+| 6 | Binocular Microscopes | 0.5 | 1 |  | 2 | 1 |
+| 7 | ELISA Reader and Washer | 4.99 | 1 |  | 2 | 9.98 |
+| 8 | Refrigerator (300 Ltrs) | 0.2 | 1 | 1 | 2 | 0.4 |
+| 9 | Deep Freezer (-20°C) | 5.4 | 0 | 1 | 1 | 5.4 |
+| 10 | Micro Pipette Set (Singal  |  Channel -05 & Multichannel 02) | 0.8 | 1 | 1 |  | 1.6 |
+| 11 | Analytical Balance (Weighing  |  Scale) | 0.7 | 1 | 1 | 2 | 1.4 |
+| 12 | Water bath | 0.4 | 1 |  | 2 | 0.8 |
+| 13 | Mixer/ Rotetor | 0.25 | 1 | 1 | 2 | 0.5 |
+| 14 | Needle Cutter0.04 | 0.04 | 1 |  | 2 | 0.08 |
+| 15 | Loop Sterilizer Ee0.26ctronic | 0.26 | 1 | 1 | 2 | 0.52 |
+| 16 | Computer with Printer, Scanner  |  and UPS | 0.8 | 1 |  | 2 | 1.6 |
+|  | Total |  |  |  |  | 35.70 |
+----------------------------------------------------------------------------------------------------
 अटी:
 १) सदर यंत्रसामुग्री व उपकरणांची आवश्यकता / मागणी याची शहानिशा / खातरजमा
 करण्यात यावी. त्यानंतरच सदर बाबींच्या खरेदीसाठी निविदा प्रक्रिया राबविण्यात यावी.

@@ -20,6 +20,14 @@ PIP ला मान्यता प्राप्त झालेली आह
 करुन देण्यात आलेल्या निधीचा तपशील पुढीलप्रमाणे आहे :
 # Page 2
 शासन निर्णय क्रमांकः प्रशामा-१०१८/प्र.क्र.४९८/आ-७
+----------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Drug Name | Specification | Drug Type | Last PO Rate | Unit in which requirement should be given | Total Require ment | Total Amount |
+| 1 | Framycetin Sulphate Cream 30gm | Oint.Framycetin skin 1% w/w 30 gm | Ointment | 21 | Tube | 7500 | 1,75,500 |
+| 2 | Prednisolone Tab 10 mg | Tab Prednisolone 10mg Aluminium Blister-Strip of 10 Tabs | Tablets | 1.239 | Numbers | 300000 | 3,71,700 |
+| 3 | While Petroleum Jelly 1 Kg | White Petroleum Jelly 1 Kg Packts | Oitment | 218.7 | Numbers | 2000 | 4,37,700 |
+| 4 | Povidone Iodine Ointment 15 gm | Povideone Iodine Ointment 15 gm | Topical Medicine | 7.35 | Numbers | 40000 | 2,94,000 |
+| TOTAL Amout Rs. | 12,60,600/ |
+----------------------------------------------------------------------------------------------------------------------------------
 ३. सदरची प्रशासकीय मान्यता पुढील अटींच्या अधीन राहून देण्यात येत आहे :
 १) सदर कुष्ठरुग्णांना आवश्यक असणारी औषधे व औषधी साहित्य यांची आवश्यकता /
 मागणी याची शहानिशा / खातरजमा करण्यात यावी. त्यानंतरच सदर बाबींच्या खरेदीसाठी वाचा

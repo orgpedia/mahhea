@@ -27,9 +27,59 @@
 करण्यासाठी विहित पध्दतीने निविदा प्रक्रिया राबवून खालील तक्त्यात नमूद केलेली औषधी खरेदी
 करण्यासाठी रु.१०.०० कोटी (रुपये दहा कोटी फक्त) इतका निधी खर्च करण्यास प्रशासकीय
 मान्यता देण्यात येत आहे.
+---------------------------------------------------------------------
+| No. | Drug Name | Strength/ Specification | Total |
+| Supply | Unit cost | Budget required |
+| 1 | Cyclophosphamide Inj | vial 200 mg | 4050 | 18.06 | 73143 |
+| 2 | Cyclophosphamide inj | vial 500 mg | 2550 | 24.46 | 62373 |
+| 3 | Bleomycin Inj. 15 mg/iu | vial 15 mg/iu per vial | 1700 | 336.68 | 572356 |
+| 4 | Etoposide Cap 100mg | 1 cap or 4 Cap | 5950 | 315 | 1874250 |
+| 5 | Etoposide Inj. | 100 mg per 5 ml | 1820 | 51.52 | 93766 |
+| 6 | Leucovorrin calcium Inj. 50mg/5ml | 5ml | 3430 | 34.45 | 118164 |
+| 7 | Leucovorrin calcium Tab 15 mg | 10 Tab 15 mg | 1820 | 158.76 | 288943 |
+| 8 | Doxurubicin HCL Inj. 50mg | 25 ml | 4395 | 6720 | 29534400 |
+| 9 | Mesna Inj. 200mg | vial | 5870 | 34.98 | 205333 |
+| 10 | Dacarbazine Inj 500mg | vial | 1420 | 272.16 | 386467 |
+|  | Methotrexate inj 50g/2ml | 2ml | 2830 | 21 | 59430 |
+| 12 | Inj Carboplatin 150mg | 15ml | 3820 | 425.6 | 1625792 |
+| 13 | Inj Carboplatin 450 mg | 45ml | 5140 | 1192.8 | 6130992 |
+| 14 | Chlorambucil Tab | 10 Tablet | 3340 | 1470 | 4909800 |
+| 15 | Inj Oxaliplatin 50mg vial | 25 ml | 2850 | 280 | 798000 |
+| 16 | Imatinib Tab 100 mg | 10 Tab | 9850 | 126 | 1241100 |
+| 17 | Imatinib Tab 400mg | 10 Tab | 4600 | 504 | 2318400 |
+| 18 | Docetaxel Inj. 20 mg | 0.5 ml | 2015 | 228.85 | 461133 |
+| 19 | Docetaxel Inj. 80 mg | 2ml | 1415 | 632.17 | 894521 |
+| 20 | Docetaxel Inj. 120 mg | 3ml | 1990 | 1680 | 3343200 |
+| 21 | 5 Fluorouracil Inj. 500mg | 10 ml | 4620 | 11.19 | 51698 |
+| 22 | Inj Cisaplatin | 10mg | 4190 | 63.3 | 265227 |
+| 23 | Inj Cisaplatin | 50mg | 3640 | 230.09 | 837528 |
+| 24 | Inj. Paclitaxel | 30 mg vial | 1860 | 196 | 364560 |
+| 25 | Inj. Paclitaxel | 100 mg vial | 2550 | 408.8 | 1042440 |
+---------------------------------------------------------------------
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-०७१८/प्र.क्र. ३५१/आ-७
+------------------------------------------------------
+| 26 | Inj. Paclitaxel | 300 mg vial | 1990 | 896 | 1783040 |
+| 27 | Inj. Epirubicin | 10mg | 2860 | 189 | 540540 |
+| 28 | Inj. Epirubicin | 50mg | 1775 | 630 | 1118250 |
+| 29 | Inj. Gemcitabine | 200 mg | 2730 | 257.6 | 703248 |
+| 30 | Inj. Gemcitabine | 1000 mg | 2180 | 896 | 1953280 |
+| 31 | Tab. Capecitabine | 500mg | 32100 | 201.6 | 6471360 |
+| 32 | Tab Tamoxifen | 20 mg | 40250 | 7.84 | 315560 |
+| 33 | Tab Letrozole | 2.5 mg | 22700 | 19.04 | 432208 |
+| 34 | Tab Methotrexate | 2.5 mg | 19570 | 9.45 | 184937 |
+| 35 | Tab. Erlotinib | 100 mg | 8300 | 1904 | 15803200 |
+| 36 | Tab. Erlotinib | 150mg | 6800 | 604.08 | 4107744 |
+| 37 | Tab. Geftinib | 250mg | 13900 | 318.6 | 4428540 |
+| 38 | Tab. Celecoxib | 100mg | 8300 | 59.63 | 494929 |
+| 39 | Tab. Celecoxib | 200 mg | 5900 | 103.13 | 608467 |
+| 40 | Cap.Cyclophosmide | 50mg | 23850 | 15.29 | 364667 |
+| 41 | Cap. Etoposide | 50mg | 5300 | 210.99 | 1118247 |
+| 42 | Inj. Grafeel | 300 mcg | 14100 | 105.28 | 1484448 |
+| 43 | Inj. Zolendronic acid | 4mg/100ml | 5720 | 93.45 | 534534 |
+|  | Total |  |  |  |  |  |  |  |  | 100000213 |  |
+------------------------------------------------------
 वर नमूद केलेली औषधी खरेदी करण्यासाठी तात्काळ निविदा प्रक्रिया राबवावी आणि ती
 त्वरीत अंतीम करुन औषधी खरेदीची कार्यवाही पूर्ण करावी.
 २. कर्क रोगावरील औषधी खरेदीची प्रक्रिया राज्यात प्रथमच राबविण्यात येत आहे. त्यामुळे

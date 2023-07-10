@@ -11,9 +11,53 @@
 याबाबत पुढीलप्रमाणे निर्णय घेण्यात येत आहे.
 शासन निर्णय : ठाणे जिल्हा सामान्य रुग्णालयाच्या सध्याच्या ३६७ खाटा मध्ये ६७ खाटांची वाढ करण्यास आणि त्या ठिकाणी १४० खाटांचे संदर्भ सेवा रुग्णालय (सुपर स्पेशालिटी रुग्णालय) सुरु करण्यास पुढील प्रमाणे मान्यता देण्यात येत आहे. सदर रुग्णालयाच्या सध्याच्या खाटा व वाढीव मंजूर खाटा याबाबतचा तपशील पुढील प्रमाणे आहे.
 अ) जिल्हा सामान्य रुग्णालय, ठाणे
+-----------------------------------------------------
+| Sr. No. | Name of Ward | Existing Beds | New Proposed Bed |
+| 1 | Medical Ward | 64 | 6 |
+| 2 | Surgical (Including ENT ) | 50 | 0 |
+-----------------------------------------------------
 # Page 2
 शासन निर्णय क्रमांक: संकीर्ण-2015/प्र.क्र.409/आरोग्य-3 अ
+-----------------------------------------------------
+| 3 | Ortheopaedic | 50 | 0 |
+| 4 | ANC /PNC /Labour Room / Eclampsia) (Septic) | 46 | 34 |
+| 5 | Gynaec Ward | 15 | 0 |
+| 6 | Pediatric Ward | 20 | 0 |
+| 7 | Trauma Care Unit (TCU) | 12 | 5 |
+| 8 | Intensive Care Unit (ICU) | 7 | 12 |
+| 9 | Isolation Ward | 7 | 3 |
+| 10 | Burn Ward | 25 | 0 |
+| 11 | Eye Ward | 20 | 0 |
+| 12 | TB & Chest Ward | 20 | 0 |
+|  | Timely Formed New Wards |
+| 13 | SNCU Ward | 12 | 0 |
+| 14 | NRC Ward | 10 | 0 |
+| 15 | Psychiatric Ward | 4 | 2 |
+| 16 | Prisoner Ward | 2 | 3 |
+| 17 | Hematology Ward | 3 | 2 |
+| TOTAL : | 367 | 67 |
+-----------------------------------------------------
 ब) संदर्भ सेवा रुग्णालय, ठाणे (सुपर स्पेशालिटी हॉस्पिटल)
+------------------------------------------
+| Sr. No | Department | Ward | Beds |
+| 1 | Cardiology & Cardio Vascular Section |  |  |
+|  |  | ICCU | 10 |
+|  |  | ICCU(Cath Lab) | 10 |
+|  |  | Male Ward | 10 |
+|  |  | Female Ward | 10 |
+| 2 | Neurology & Neuro Surgery Section |  |  |
+|  |  | ICCU | 10 |
+|  |  | Male Ward | 15 |
+|  |  | Female Ward | 15 |
+| 3 | Oncology & Onco Surgery Section |  |  |
+|  |  | ICCU | 10 |
+|  |  | Male Ward | 15 |
+|  |  | Female Ward | 15 |
+| 4 | Nephrology & Dialysis Section |  |  |
+|  |  | Nephrology Ward | 10 |
+|  |  | Dialysis Ward | 10 |
+| TOTAL : | 140 |
+------------------------------------------
 पृष्ठ ३ पैकी २
 # Page 3
 शासन निर्णय क्रमांक: संकीर्ण-2015/प्र.क्र.409/आरोग्य-3 अ

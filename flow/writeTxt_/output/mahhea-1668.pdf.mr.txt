@@ -16,10 +16,96 @@
 # Page 2
 शासन निर्णय क्रमांकः प्रशामा-०५१९/प्र.क्र.३३०/आरोग्य-७
 अ- अनुदानाचा तपशिल
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. no | FMR code | Name of Head | Approved Budget in PIP in 19-20 (In lakhs) | Available budget at State level (In lakhs) | Procurement Proposal |
+| 1 | 6.2.15.1 | Assistance for consumables/ drugs/ Medicines to the Govt./District Hospital for Cat sx etc.@ Rs.450/- per case | 600 | 330 | Procurement of Medicine & Consumables Total Amt.Rs.326.70 Lakhs |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ब- प्रस्तावित खरेदीचा तपशिल
+---------------------------------------------------------------------------------------------------------------
+| Sr.no | Name of Drug | Requirement 2018-19 | Unit Rate (Rs.) Approximately | Amount |
+|  | Intra Ocular Lenses Each [412.1] | 48565 | 40.04 | 1944543 |
+|  | 1 |  |
+|  |
+|  | Inj. Hydroxy Propyl Methyl Cellulose USP 2 % In Sterile Isonic Base PFS 2 ml PFS [346.1] | 60473 | 62.76 | 3795285 |
+|  | 2 |  |
+|  |
+|  | Black Goggles for Cata. Patients [691.1] | 49065 | 15.47 | 759036 |
+|  | 3 |  |
+|  |
+|  | Polydrapes (Eye) Disposable [692.2] | 33289 | 14.08 | 468709 |
+|  | 4 |  |
+|  |
+|  | Tunnel Blade [692.1] | 43088 | 66.27 | 2855442 |
+|  | 5 |  |
+|  |
+|  | Nonabsorable microsuture monofilament nylon Size 10-0 Box of 12 Foils [652.1] | 771 | 3029.00 | 2335359 |
+|  | 6 |  |
+|  |
+|  | Hyluronidase Inj 2 ml [408.1] | 16479 | 0.72 | 11865 |
+|  | 7 |  |
+|  |
+|  | Atropine Sulphate Eye Ointment 5 gm [352.1] | 4574 | 3.05 | 13951 |
+|  | 8 |  |
+|  |
+|  | Topical Lignocaine (Xylocaine ) 4 % 30 ml Vial [1.6] | 16116 | 3.88 | 62530 |
+|  | 9 |  |
+|  |
+|  | Ketorolac Promethymene Eye Drop 5 ml [409.1] | 65269 | 8.32 | 543038 |
+|  | 10 |  |
+|  |
+|  | Moxifloxacin + Prednisolone Acetate Eye Drop 5 ml [410.1] | 62282 | 19.17 | 1193946 |
+|  | 11 |  |
+|  |
+|  | Pilocarpine Eye Drops 5 ml [345.1] | 2258 | 2.78 | 6277 |
+|  | 12 |  |
+|  |
+|  | Proparacaine Eye Drops 5 ml [411.1] | 5069 | 0.58 | 2940 |
+|  | 13 |  |
+|  |
+|  | Timolol Maleate Eye Drops 5 ml [351.1] | 8868 | 2.70 | 23944 |
+|  | 14 |  |
+|  |
+|  | Tropicamide Eye Drop 1 % 5 ml [347.1] | 10961 | 7.62 | 83523 |
+|  | 15 |  |
+|  |
+|  | Tropicamide+ Phenylephrine HCL Eye Drops 5 ml [354.1] | 17311 | 12.03 | 208251 |
+|  | 16 |  |
+|  |
+|  | Homatropine Drops 5 ml [353.1] | 11815 | 6.71 | 79279 |
+|  | 17 |  |
+|  |
+|  | Chloramphenicol Eye Applicaps [342.1] | 187883 | 2.75 | 516678 |
+|  | 18 |  |
+|  |
+|  | Ciprofloxacin + Dexamethasone Eye Drops 5 ml [344.1] | 125013 | 22.61 | 2826544 |
+|  | 19 |  |
+|  |
+|  | Ciprofloxacin Eye/Ear drop 5 ml [343.1] | 141880 | 93.82 | 13311182 |
+|  | 20 |  |
+|  |
+|  | Ciprofloxacin Eye Ointment 5 gm [343.2] | 50934 | 7.19 | 366215 |
+|  | 21 |  |
+|  |
+|  | Lignocaine HCI I.P Inj 2 % 30 ml Vial [1.2] | 10619 | 39.32 | 417539 |
+|  | 22 |  |
+|  |
+|  | Acetazolamide Tab [349.1] | 60653 | 1.87 | 113421 |
+|  | 23 |  |
+|  |
+---------------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-०५१९/प्र.क्र.३३०/आरोग्य-७
+------------------------------------------------------------------------------
+| Sr.no | Name of Drug | Requirement 2018-19 | Unit Rate ( Rs.) Approximately | Amount |
+|  | Disposable Needle 26G Each [628.1] | 97984 | 5.51 | 539892 |
+|  | 24 |  |
+|  |
+|  | Pilocarpine Nitrate Drop 5 ml [418.1] | 7014 | 27.14 | 190360 |
+|  | 25 |  |
+|  |
+|  |  |  | Total |  |  | 32669749 |
+------------------------------------------------------------------------------
 सदरची प्रशासकीय मान्यता पुढील अटींच्या अधीन राहून देण्यात येत आहे:
 १) सदर औषधी व साहित्य सामुग्रीची आवश्यकता / मागणी याची शहानिशा / खातरजमा करण्यात यावी. त्यानंतरच सदर बाबींच्या खरेदीसाठी निविदा प्रक्रिया राबविण्यात यावी.
 २) सदरहू औषधी व साहित्य सामुग्रीचे विनिर्देश गरजेनुसार व अद्ययावत असल्याची खातरजमा करण्यात यावी. खरेदी करावयाच्या बाबींचे तांत्रिक विनिर्देश (Technical specification) संबंधित

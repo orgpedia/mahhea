@@ -24,7 +24,18 @@
 रकमेच्या खरेदीस प्रशासकीय मान्यता खालील अटींच्या अधीन राहून देण्यात येत आहे.
 विवरणपत्र
 अ- अनुदानाचा तपशिल
+----------------------------------------------------------------------------------------------------------------------------------------
+| Sr. | FMR code | Name of Head | Approved Budget in PIP in 2020-21 (In lakhs) | Available budget at State level (In lakhs) | Procurement Proposal |
+| 1 | 6.2.21.1 | NHM Free Drugs Services | 30471.67 | 25746.00 | Procurement of Medicine & Consumables Total Amt.Rs.1146.084 Lakhs |
+----------------------------------------------------------------------------------------------------------------------------------------
 ब- प्रस्तावित खरेदीचा तपशिल
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Medicine/ Consumable | Unit Measure | Technical Specification | Appro x. Unit  |  Cost | Total Requirement up to March 2021 (PHD+  |  MEDD+ Corpo.) | Quantity to be proposed for Procurement W.R.t. budget available | Total Budget Required |
+| 1 | Rubber Gloves (All Size) | One Pair | Rubber Gloves Sterile ISI Mark Sizes 6.5", 7",7.5",8" | 8.38 | 20711579 | 3600000 | 30168000 |
+| 2 | Methyl Prednisolone | Inj 500  |  mg Vial | Methyl Prednisolone Sodium Succinate 500mg. Vial Inj. | 107.52 | 1098553 | 270000 | 29030400 |
+| 3 | Low Molecular Weight Haparine | Inj 0.4 IU | Low Molecular  | Weight Heparin (Enoxaparin) 0.4 IU PES | 89.00 | 1449247 | 600000 | 53400000 |
+| अक्षरी रुपये अकरा कोटी पंचवीस लक्ष अठ्ठयाण्णव हजार चारशे फक्त | 112598400 |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः प्रशामा-१२२०/प्र.क्र.४४/आरोग्य-७

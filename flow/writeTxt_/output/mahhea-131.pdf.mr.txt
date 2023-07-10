@@ -23,7 +23,37 @@ Chronic Kidney Disease (CKD) and Chronic Obstructive Pulmonary Disease (COPD)
 शासन निर्णय क्रमांकः प्रशामा-०३१८/प्र.क्र.९१/आ-७
 २. सदर बाबतचा तपशील पुढीलप्रमाणे आहे :
 अ) आवश्यक असणाऱ्या उपकरणांचा तपशील :
+--------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Equipment | Demand received from Nashik District | Actual Supply to be given | Unit Cost (in INR) | Total Budget required (in lakhs) |
+| 1 | Portable Spirometer | 2 | 2 | 50000 | 1.00 |
+| 2 | Pulmonary Function Test Machine | 2 | 1 | 200000 | 2.00 |
+| 3 | Pulmonary oximeter cum capnograph | 2 | 1 | 150000 | 1.50 |
+| 4 | Finger Pulse Oximeter | 12 | 12 | 2000 | 0.24 |
+| 5 | Invasive / Non Invasive Ventilator | 2 | 1 | 1000000 | 10 |
+| 6 | Nebuliser | 12 | 12 | 1500 | 0.18 |
+| TOTAL | 14.92 |
+--------------------------------------------------------------------------------------------------------------------------------------
 ब) आवश्यक असणाऱ्या औषधांचा तपशील खालीलप्रमाणे :
+------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Name of Medicine/ Material | Received Demand From Nashik | Approximate unit cost | Approximate Budget Required |
+| 1 | Etophylin + Theophyillin SR Tab 231 mg + 69 mg | 272200 | 0.40 | 108880 |
+| 2 | Ipratropium Respiratiory Solution 250mg 15 ml | 400 | 10.00 | 4000 |
+| 3 | Levo Salbutamol Respiratiory Solution 0.0625 mg/ml |  10 ml | 1956 | 3.37 | 6591.72 |
+| 4 | Levo SAlbutamol Syrup 1mg / 5ml 100 ml | 4500 | 10.00 | 45000 |
+| 5 | Salbutamol Rotacps Powder Puff 200 mcg | 755 | 175.00 | 132125 |
+| 6 | Salubtamol Syrup 2 mg/ 5ml 100ml | 17800 | 6.10 | 108580 |
+| 7 | Salubtamol Tab 4 mg | 160000 | 0.11 | 17600 |
+| 8 | Dexamethasone inj 4 mg 2 ml | 75700 | 3.46 | 261922 |
+| 9 | Hydrocortisone Sodium Succinate inj 100 mg Vial | 21785 | 11.24 | 244863.4 |
+| 10 | Methyl Predinsolone inj 125mg/2ml | 0 | 19.70 | 0 |
+| 11 | Methyl Predinsolone inj 40 mg/ml_1_ml | 0 | 38.76 | 0 |
+| 12  |  | Methyl Predinsolone inj 500 mg | 2500 | 450.00 | 1125000 |
+| 13  |  | Methyl Predinsolone Tab 4 mg | 16000 | 0.99 | 15840 |
+| 14 | Prednisolone Tab 10 mg | 60300 | 1.49 | 89847 |
+| 15 | Prednisolone Tab 20 mg | 55800 | 2.73 | 152334 |
+| 16 | Prednisolone Tab 5 mg | 88300 | 1.23 | 108609 |
+|  | Total |  |  | 2421192 |
+------------------------------------------------------------------------------------------------------------------
 ३. सदरची प्रशासकीय मान्यता पुढील अटींच्या अधीन राहून देण्यात येत आहे :
 १) सदर औषधी व साहित्य सामुग्रीची आवश्यकता / मागणी याची शहानिशा / खातरजमा
 करण्यात यावी. त्यानंतरच सदर बाबींच्या खरेदीसाठी निविदा प्रक्रिया राबविण्यात यावी.
